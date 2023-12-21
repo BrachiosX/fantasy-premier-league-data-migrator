@@ -1,4 +1,4 @@
-module github.com/zest97/fpl-player-data-migration
+module github.com/BrachiosX/fantasy-premier-league-data-migrator
 
 go 1.21
 
