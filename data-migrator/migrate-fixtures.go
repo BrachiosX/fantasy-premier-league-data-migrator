@@ -4,7 +4,7 @@ import (
 	"context"
 	"strconv"
 
-	fplapiconnector "github.com/zest97/fpl-player-data-migration/fpl-api-connector"
+	fplapiconnector "github.com/BrachiosX/fantasy-premier-league-data-migrator/fpl-api-connector"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )

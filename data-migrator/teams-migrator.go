@@ -3,7 +3,7 @@ package datamigrator
 import (
 	"context"
 
-	"github.com/zest97/fpl-player-data-migration/models"
+	"github.com/BrachiosX/fantasy-premier-league-data-migrator/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )

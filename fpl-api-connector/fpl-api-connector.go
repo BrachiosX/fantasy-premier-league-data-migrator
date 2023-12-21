@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/zest97/fpl-player-data-migration/models"
+	"github.com/BrachiosX/fantasy-premier-league-data-migrator/models"
 )
 
 func GetFPLBoostrapData() models.BootStrapData {

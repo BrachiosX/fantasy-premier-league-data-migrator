@@ -4,8 +4,8 @@ import (
 	"context"
 	"os"
 
+	datamigrator "github.com/BrachiosX/fantasy-premier-league-data-migrator/data-migrator"
 	"github.com/joho/godotenv"
-	datamigrator "github.com/zest97/fpl-player-data-migration/data-migrator"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
