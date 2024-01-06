@@ -2,6 +2,7 @@ package models
 
 type Player struct {
 	ID                            int     `json:"id"`
+	Code                          int     `json:"code"`
 	FirstName                     string  `json:"first_name"`
 	SecondName                    string  `json:"second_name"`
 	WebName                       string  `json:"web_name"`
